@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.orionlibs</groupId>
     <artifactId>orion-shell</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <name>Orion Shell</name>
     <description>Java shell or command-line library</description>
     <url>https://github.com/orionlibs/orion-shell</url>
@@ -243,7 +243,7 @@
         <dependency>
             <groupId>io.github.orionlibs</groupId>
             <artifactId>orion-object</artifactId>
-            <version>1.0.2</version>
+            <version>1.0.3</version>
         </dependency>
     </dependencies>
 </project>
